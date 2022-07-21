@@ -2,8 +2,8 @@
 
 ## Install required packages
 
-    `pip install -r requirements.txt`
+    pip install -r requirements.txt
 
 ## Start test
 
-    `python main_script.py`
+    python main_script.py
